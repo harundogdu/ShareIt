@@ -1,4 +1,4 @@
-## SharePhoto
+## ShareIt
 Example instagram/twitter app that I am/am developing using Swift 5 and Firebase.
 
 <div style="text-center">
